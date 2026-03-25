@@ -21,6 +21,10 @@ A curated collection of best-practice Copilot instructions and coding guidelines
 2. Review or copy the Copilot instructions for your project.
 3. Apply these guidelines to improve code quality, maintainability, and security.
 
+## Related Tools
+
+- [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server. Free.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
